@@ -20,4 +20,4 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
 
 1. Clona este repositorio:
    ```bash
-   [git clone [https://github.com/tuusuario/tu-repositorio.git](https://github.com/BLBM/PRUEBA-FONYOU-SPRING.git)]
+   [git clone https://github.com/BLBM/PRUEBA-FONYOU-SPRING.git]
